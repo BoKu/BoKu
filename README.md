@@ -3,6 +3,7 @@
 
 ### Hi there 👋
 More changes coming soon...
+Just trying to work out what to put here :)
 <!--
 **BoKu/BoKu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
